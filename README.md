@@ -1,1 +1,2 @@
 # GitLogTest
+test pull
